@@ -14,10 +14,6 @@
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VARkit&theme=tokyonight)](https://github.com/VARkit)
 -->
 
-# Our projects
-### [Check out our repositories!](https://github.com/orgs/VARkit/repositories)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=VARkit&repo=SkiingSimulator)](https://github.com/VARkit/SkiingSimulator)
-
 # Take part in the development
 We are always glad to receive your feedback, ideas and recommendations that you can give us!<br>
 They are the ones who make us better!<br><br>
